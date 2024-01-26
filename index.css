@@ -1,0 +1,25 @@
+body {
+    background-image: url("images/phot.avif");
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    height: 100vh;
+}
+
+h1 {
+    color: darkred;
+}
+
+#message-el {
+    font-family:Georgia, Times, serif;
+}
+
+button {
+    color: white;
+    background: border-box, brown;
+    border-radius: 20px;
+    box-shadow: 20px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
